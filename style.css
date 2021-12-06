@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+body {
+  text-align: center;
+}
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background:rgb(241, 154, 198);
+}
+figcaption {
+  font-size: 12px;
+}
+section#featured-property p {
+  width: 800px;
+  margin: auto;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+section#details div {
+  float: left;
+  background:rgb(241, 154, 198);
+  width: calc(25%);
+}
